@@ -1,0 +1,29 @@
+{
+  "name": "custom-video-player",
+  "version": "1.0.0",
+  "description": "This is a custom video player",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amit05sept/custom-video-Player.git"
+  },
+  "keywords": [
+    "Custom-video-player"
+  ],
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit05sept/custom-video-Player/issues"
+  },
+  "homepage": "https://github.com/amit05sept/custom-video-Player#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
